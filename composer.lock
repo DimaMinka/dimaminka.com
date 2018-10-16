@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "71528ca788f5ceb64fdb4274e0609220",
+    "content-hash": "b323861be476df09e9559115884eae9a",
     "packages": [
         {
             "name": "composer/installers",
@@ -487,11 +487,11 @@
             "version": "master",
             "source": {
                 "type": "git",
-                "url": "git@github.com:WordPress/twentynineteen.git",
-                "reference": "9977299"
+                "url": "https://github.com/WordPress/twentynineteen.git",
+                "reference": "c965edc"
             },
             "type": "wordpress-theme",
-            "time": "2018-10-16T19:40:53+00:00"
+            "time": "2018-10-16T20:06:42+00:00"
         },
         {
             "name": "wpackagist-plugin/dark-mode",

@@ -18,6 +18,7 @@ cache:
 before_install:
   - phpenv config-rm xdebug.ini || true
   - composer self-update
+  - composer config -g github-oauth.github.com "$GITHUB_TOKEN"
 
 install:
   - composer install -o --prefer-dist --no-interaction
